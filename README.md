@@ -26,3 +26,12 @@ As a senior data analyst at the company, you've been given access to the complet
   - Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
 
 # Analytical Observations
+
+  - Capomulin treatment for mouse B128 shows that the drug regimen was significantly effective over 45 days. However, after a steady decline for 38 days, the mouse's tumor volume started to increase. Although the drug regimen show's promise of working, additional time may provide a more clear answer.
+  
+  - The Boxplot for the final tumor of each mouse across four drug regimens show a large advantage for Capomulin and Ramicane treatments with relatively similar outcomes.
+    
+  - The linear regression model shows the mouse weight has a strong correlation (R-squared of 0.84) with the average tumor volume. This data suggests that although the final tumor volume has reduced, the mouse's weight should also be observed to have a full understanding of their recovery. 
+  
+  - Final Jupyter Notebook submission is under the filename: pymaceuticals_starter-checkpoint.ipynb
+
